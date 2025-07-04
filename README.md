@@ -38,7 +38,7 @@ Built using:
 
 ## 📸 Screenshots
 
-
+https://github.com/Asmita0817/job-role-recommender-app/blob/main/Screenshot%202025-07-05%20005003.png
 
 
 
