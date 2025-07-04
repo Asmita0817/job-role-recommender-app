@@ -13,7 +13,7 @@ Built using:
 
 ## 🚀 Live App
 
-👉 [Click here to try the live app](https://your-app-name.streamlit.app)
+👉 [Click here to try the live app](https://job-role-recommender-app-i4hzu98srtkvmnusulm7h8.streamlit.app/)
 
 ---
 
